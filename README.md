@@ -1,6 +1,6 @@
 # PySniff
 
-A simple packet sniffing script i decided to make in order to help rememdy a faulty network connection.
+A simple packet sniffing script i decided to make in order to help remedy a faulty network connection.
 
 ## Why?
   My Linux machine does not have an integrated wifi adapter, and the ethernet ports are disabled where I live. Since I was on a budget, the USB network adapter I purchased has a tendency to disconnect at random times, but the comptuer does not provide any feedback to indicate the loss of connection. 
