@@ -7,3 +7,6 @@ A simple packet sniffing script i decided to make in order to help remedy a faul
   
   By having this script open in the background, I can constantly monitor the status of my network as well as the packet information. Basically, two birds with one stone. If the connection is lost, the destination MAC addresses will default to 00:00:00... or FF:FF:FF... 
   
+## Run
+
+To run, open command prompt/terminal and type `sudo python3 sniffer.py`
